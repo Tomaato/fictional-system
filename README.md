@@ -2,8 +2,8 @@
 
 Popis projektu
 
-## TÝM NA PROJEKT
+## Vesmírný Tým
 
-* Člen týmu 1
-* Člen týmu 2
-* Člen týmu 3
+* Vašek Pešek
+* Jaroslav Poddaný
+* Claudie Froňková
